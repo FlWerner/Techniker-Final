@@ -5,9 +5,8 @@ Ziel der Abschlussarbeit war ein ZENTRALES KASSENSYSTEM MIT RFID-BASIERTER IDENT
 Die FullStack Anwendung wurde für eine Hilfsorganisation erstellt, in der ich selbst Tätig und aktiv bin.
 
 ## Überblick – Infrastruktur
-<picture>
-  <source srcset="/DOC/Design/11_BigPicture.png">
-</picture>
+![Screenshot](/DOC/Design/11_BigPicture.png)
+
 Das Projekt wurde in drei Teilbereiche gegliedert:
 ### Backend:
 Rest-Api Controller anhand von Spring Boot und MySQL. Aufgrund der Zeitlichen Rahmenbedingungen wurde das Thema Sicherheit ausgelassen.
