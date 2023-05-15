@@ -4,17 +4,19 @@ Darstellung meiner Techniker - Abschlussarbeit im Rahmen des staatlich geprüfte
 Ziel der Abschlussarbeit war ein ZENTRALES KASSENSYSTEM MIT RFID-BASIERTER IDENTIFIKATION.
 Die FullStack Anwendung wurde für eine Hilfsorganisation erstellt, in der ich selbst Tätig und aktiv bin.
 
-Überblick – Infrastruktur
-
+## Überblick – Infrastruktur
+<picture>
+  <source srcset="./DOC/Design/11_Big Picture.png">
+</picture>
 Das Projekt wurde in drei Teilbereiche gegliedert:
--Backend:
+### Backend:
 Rest-Api Controller anhand von Spring Boot und MySQL. Aufgrund der Zeitlichen Rahmenbedingungen wurde das Thema Sicherheit ausgelassen.
 
 
--Frontend
+### Frontend
 Für die Administrative Verwaltung aller Komponenten des Backend wurde eine Simple Weboberfläche mithilfe des „React-Frameworks“ gebaut. Dieses bietet der Verwaltung benutzer, Guthaben und Einkäufe zu Verwalten
 
--Terminal
+### Terminal
 Das Operative Gerät für den Kauf von Waren/Artikeln
 Dieses wurde mithilfe einer Raspberry Pi und einem RFID-Reader abgebildet. Die Programmierbasis bildet hier Python ab.
 
