@@ -6,7 +6,7 @@ Die FullStack Anwendung wurde für eine Hilfsorganisation erstellt, in der ich s
 
 ## Überblick – Infrastruktur
 <picture>
-  <source srcset="./DOC/Design/11_Big Picture.png">
+  <source srcset="/DOC/Design/11_BigPicture.png">
 </picture>
 Das Projekt wurde in drei Teilbereiche gegliedert:
 ### Backend:
